@@ -5,3 +5,5 @@ add line 002
 
 Branch 2
 add line
+
+branch 4
