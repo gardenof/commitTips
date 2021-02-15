@@ -7,3 +7,4 @@ Branch 2
 add line
 
 branch 4
+add line
